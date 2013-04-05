@@ -1,6 +1,6 @@
 [user]
-	name = Jack Danger Canty
-	email = jackdanger@squareup.com
+	name = Carlos d'Avis 
+	email = carlosdavis@gmail.com 
 
 [alias]
   ci = commit -va
@@ -44,8 +44,7 @@
   changed = yellow 
   untracked = cyan
 [github]
-  user = JackDanger
-  token = 6c85beea83506ded200b5d7438edbc26
+  user = carlosdavis 
 [push]
   config = default
   default = tracking
